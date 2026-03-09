@@ -37,11 +37,11 @@ It also demonstrates web application vulnerability analysis, vulnerability scann
 
 | S.no | Name           | College                                                | Contact                   |
 | ---- | -------------- | ------------------------------------------------------ | ------------------------- |
-| 1    | CHANDRU K      | Bharathidasan College of Arts and Science, Ellispettai | ck6582293@gmail.com       |
-| 2    | DHANUSH B      | Bharathidasan College of Arts and Science, Ellispettai | massdhanush1166@gmail.com |
-| 3    | MURUGAN V      | Bharathidasan College of Arts and Science, Ellispettai | abishek25100@gmail.com    |
-| 4    | AATHIKESAVAN M | Bharathidasan College of Arts and Science, Ellispettai | aathikesavanm59@gmail.com |
-| 5    | MOHANRAJ S     | Bharathidasan College of Arts and Science, Ellispettai | mohanraj638453@gmail.com  |
+| 1    | FARHANA M      | Bharathidasan College of Arts and Science, Ellispettai | farhanakasim2005@gmail.com       |
+| 2    | HELAN GLORY A  | Bharathidasan College of Arts and Science, Ellispettai | helananbu07@gmail.com |
+| 3    | HARI PRIYA T   | Bharathidasan College of Arts and Science, Ellispettai | pp9596419@gmail.com    |
+| 4    | BHAVATHARANI A | Bharathidasan College of Arts and Science, Ellispettai | bhavatharani744@gmail.com |
+| 5    | LAKSHITHA G M  | Bharathidasan College of Arts and Science, Ellispettai | lakshithaagunasekaran@gmail.com  |
 
 ## Conclusion
 
