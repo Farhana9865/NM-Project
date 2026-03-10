@@ -43,6 +43,8 @@ It also demonstrates web application vulnerability analysis, vulnerability scann
 | 4    | BHAVATHARANI A | Bharathidasan College of Arts and Science, Ellispettai | bhavatharani744@gmail.com |
 | 5    | LAKSHITHA G M  | Bharathidasan College of Arts and Science, Ellispettai | lakshithaagunasekaran@gmail.com  |
 
+## Project demo video link : https://drive.google.com/file/d/1eea-L5AJdmkWgD71kv5chKr6vdGHSPOi/view?usp=sharing
+
 ## Conclusion
 
 This project helped us understand the Zero Trust Network Access (ZTNA) model and how Zscaler secures user-to-application connectivity in modern organizations. It also provided practical knowledge about web application vulnerabilities, vulnerability scanning using Nessus, and integrating Zscaler with Identity Providers for secure authentication and authorization.
